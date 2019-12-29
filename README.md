@@ -12,6 +12,8 @@ Date   : 2019.12.27
 各種ライブラリをgithubなどのリポジトリから自動取得する。
 また、アップデートの確認を即座に行う。
 
+Automatic acquisition and update of libraries (plug-ins)
+
 
 # Specification
 - json
@@ -47,6 +49,6 @@ $ sh auto.sh -m check -f sample/sample.json -d data
 [argv]
 -m : モード [ (default) auto (自動データ処理) , check (確認のみ) ]
 -f : 設定ファイルパス
--d : 出力先ディレクトリ (ddefault:data)
+-d : 出力先ディレクトリ (default:vendor)
 
 
