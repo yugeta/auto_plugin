@@ -16,15 +16,14 @@ Automatic acquisition and update of libraries (plug-ins)
 
 
 # Specification
-- json
+- 設定データファイルは、json形式とcsv形式どちらでもOK  
+  ※json形式を利用する場合は、jqコマンドがサーバーにインストールされている必要があります。
 
-- csv
-
-- Github | other Repository
+- 管理するリポジトリはweb上にアクセスできるgitリポジトリのみです。
+  ※現バージョンでは、セキュリティを乗り越える機能はありません。
 
 
 # Setting-file
-
 - json
 [
   {
