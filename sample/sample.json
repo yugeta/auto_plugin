@@ -1,0 +1,14 @@
+[
+  {
+    "name" : "test",
+    "git"  : "https://github.com/yugeta/test.git"
+  },
+  {
+    "name" : "codeView",
+    "git"  : "https://github.com/yugeta/codeView.git"
+  },
+  {
+    "name" : "uniqurl",
+    "git"  : "https://github.com/yugeta/uniqurl.git"
+  }
+]
